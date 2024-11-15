@@ -1,0 +1,15 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https://www.motor24.pt/files/2019/03/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },{
+            "id":"2",
+            "Marca":"McLaren",
+            "Detalhes":"720s Spider",
+            "Foto":"https://uploads.diariodopoder.com.br/2022/08/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        }
+    ]
+}
